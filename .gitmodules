@@ -1,0 +1,3 @@
+[submodule "lib/web-framework"]
+	path = lib/web-framework
+	url = https://github.com/haisheng2017/simple-web-spring-boot-starter.git
