@@ -72,5 +72,9 @@ https://github.com/Deci-AI/super-gradients
 ```
 https://github.com/MahjongRepository/mahjong
 ```
-- 我自己做了一个安卓端的，把推理服务集成到安卓上了。不过看上去还是用WEB端好一点，至少在适配多系统时，会简单一些，直接打开H5页面会更方便一点。如果业务很重很大，那我可能会选择TritonServer。我自己实现的这个服务就是简易好维护，甚至不需要使用GPU。
+- 我自己做了一个安卓端的，把推理服务集成到安卓上了。不过看上去还是用WEB端好一点，至少在适配多系统时，会简单一些，直接打开H5页面会更方便一点。如果业务很重很大，那我可能会选择TritonServer。我自己实现的这个服务就是简易好维护，甚至不需要使用GPU也能迅速推理。
 - 展示放在最下面。
+
+<img src="assets/android-example.gif" width="120" />
+
+- 因为我没点自摸，所以认为是荣和，不算役满四暗刻。可以看出对于手牌的识别还是比较准确的，但业务相关部分还要精进一下，有机会会放到google appstore
